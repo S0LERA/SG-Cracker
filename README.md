@@ -11,3 +11,8 @@ Repositorio para el cracker de claves de Seguridad en Redes
 
 ### Versión 1.5
  - Funciona para contraseñas de 2 caracteres.
+
+### Versión 2.0
+ - Versión funcional para contraseñas pasadas por teclado.
+ - Reestructuración del bucle de búsqueda.
+ - Monohilo.
