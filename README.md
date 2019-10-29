@@ -16,3 +16,7 @@ Repositorio para el cracker de claves de Seguridad en Redes
  - Versión funcional para contraseñas pasadas por teclado.
  - Reestructuración del bucle de búsqueda.
  - Monohilo.
+
+### Versión 2.5
+ - Versión multihilo.
+
