@@ -20,3 +20,9 @@ Repositorio para el cracker de claves de Seguridad en Redes
 ### Versión 2.5
  - Versión multihilo.
 
+### Versión 3.0
+ - Reestructuración de la entrada de datos
+ - Comprobación de claves
+ - Añadida una carpeta con ficheros para pruebas
+ - Funcionalidad completa
+
